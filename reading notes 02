@@ -1,0 +1,72 @@
+Jonathan Barrow
+9/1/2020
+
+Reading: Today’s reading covered the topic of networks. LAn is a local area network used for small offices while the largest kind of network is a WAN, 
+like the internet. Another widely used network is a VPN or virtual private network. 
+This is a single channel between two endpoints that keeps data encrypted. Nodes are what we are used to in networking. 
+They are computers, printers, etc that can send, receive, create, or store data. A port is a specific connection between two or more network devices. 
+If an IP address is a hotel, then ports are rooms within the hotel.
+
+Notes: 
+3 different kinds of ‘server’, hardware component, OS such as MS 2016, function such as DHCP DNS or File Server.
+WSUS, you do not want the sales department computers to be not updated and others to be fine. You want consistent configurations.
+DHCP, has a pool of numbers that it keeps track of and assigns. Centralized service.
+Whether the server is DHCP or DNS then it is going to be the authoritative computer for that particular service. 
+3 Levels of a Server
+Hardware
+HP product or Dell t140
+OS
+Red Hat/ Linux/ Windows Server
+Service Server
+AD
+DNS
+DHCP
+File Server
+Web Server
+ Servers are just like computers but with a specific process.
+When people are talking about servers ask about what they are talking about, hardware, OS, or function.
+One server will have multiple computers that are enslaved to it. 
+
+
+
+		
+Two main categories in network topology, physical or logical.
+
+VLAN, virtual local area network. Both computers run a cat6 to switch but are on a different LAN. 
+
+Bare minimum for a topology is two computers connected with a cat6 or similar. 
+
+
+4 topologies for network plus exam
+Bus Topology
+Single cable from one end of the network to the other with computers stemming off of the single line. Also called a line topology. 
+Very affordable and budget friendly.
+Single line is a single point of failure.
+This is a half duplex meaning that only one way of data transfer is allowed.
+Ring topology
+Here each computer is plugged into each other and has at least 2 neighbors/.
+High speed and low risk of data issues.
+If you add another ring then the network moves from half duplex to full duplex.
+Not one single point of failure.
+Not really scalable, you would have to shut down the whole network to add another computer. 
+Star Topology
+All computers are plugged into a switch. Star topology mimics client server. 
+Computers could be called clients and switch called server.
+Switch is the single point of failure, same as router. 
+Can add computers (clients) without network interruptions. 
+Mesh Topology
+Each computer connected to every other computer.
+Very resilient to failure.
+Lots of lines so very costly in resources and time. 
+More used for server clusters.
+
+3 types of Wireless topologies
+Mesh
+Used for expanding the range of home/work wifi by adding ranges/devices.
+Each Mesh access point talks to each other. 
+Your device is going to find the shortest route to the modem. 
+Infrastructure
+Access points plugged in via cat6 that goes to the internet and the access points transmit wireless signals.
+Adhoc
+Printer and a laptop and they want to directly connect to the printer.
+Single connection. 
