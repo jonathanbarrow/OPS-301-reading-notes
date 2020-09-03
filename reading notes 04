@@ -1,0 +1,16 @@
+Jonathan Barrow
+9/3/2020
+
+Reading: Today’s reading covered the topic of VPN or virtual private networks and VPN tunneling. VPN tunneling allows users to encapsulate (insulate the data) and encrypt (hide it and make it unreadable), and then send the data over public networks like the internet. Another method that is available is Split tunneling. This is almost like a hybrid between sending certain private information over a VPN and the rest through the ISP, internet service provider. 
+Point to Point Tunneling Protocol, PPTPT. This is the most widely used type of VPN tunnel. This has high speed but low security since the only requirements are a username and a password and a server address to get access to the VPN server. 
+Layer 2 Tunneling Protocol, L2TP. This wraps or encapsulates the data twice and so it is slower than regular PPTPT. 
+Secure Socket Tunneling Protocol, SSTP. This is the most secure VPN system available on Windows OS. It transports data via SSL the same as HTTPS. 
+Open VPN, this is an open source VPN offering that anyone can use. 
+
+Notes: 
+
+Types of VPN. 
+Client Server. A server connection is required in order for the VPN tunnel to work. 
+VPN tunneling is traceable. Nothing on the internet is truly untraceable. 
+ Everything on the internet has an IP address.
+Split Tunneling: Your computer will connect to VPN tunnel only if you are trying to access VPN. You are able to preserve normal performance and not route everything through VPN. 
