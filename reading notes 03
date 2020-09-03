@@ -1,0 +1,6 @@
+
+Jonathan Barrow
+9/2/2020
+
+Reading: Today’s reading covered the concept of endpoint agents and their continued use in today’s virtual and on-prem networks. With the rise of working from home and devices connecting to a network off premises, gives rise to a number of potential security risks and concerns. Endpoint agents are monitoring software that can implement a variety of security protocols and procedures to enhance a network's security and prevent certain endpoints from being compromised. This software must be installed on an endpoint, a device in the last level of a network, and gather intelligence on the device's usage, security, and vulnerability. Endpoint agents are also extremely useful in gathering data and converting capabilities to the cloud. 
+The reading also covered OS hardening. Hardening is the process of improving a device's security through the process of least privilege. Least privilege is the concept of programming a computer to only do what you normally do and nothing else. This can be beneficial to a network's security as any abnormal procedures from least privilege devices are quickly seen.
