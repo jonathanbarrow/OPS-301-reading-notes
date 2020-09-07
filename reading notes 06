@@ -1,0 +1,4 @@
+Jonathan Barrow
+9/6/2020
+
+Reading: Today’s reading covered the Microsoft Active Directory or MAD/AD. AD is the most widely used on prem directory service. AD was designed to store users identity to users based applications and systems. Also uses group policies, to allow IT managers to control complete users identity and policy management from one location. AD is not designed to support the complexity of modern environments. AD can be used to create users and give them access to a variety of resources such as workstations, servers, and applications. AD is part of the larger IAM, identity access management space and is Mirosofts product. AD uses the DNS protocol and lightweight directory access protocol LDAP. AD is used widely across many large and medium sized corporations and is constantly working to enable users to access granted resources. 
