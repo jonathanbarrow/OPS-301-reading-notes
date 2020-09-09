@@ -1,0 +1,4 @@
+Jonathan Barrow
+9/7/2020
+
+Reading: Today’s reading covered network segmentation and its benefits in an organizations network. Network segmentation refers to subnetting a companies network in order to optimize performance and security. All the VM server, databases, etc are located within their own sub- network. This subnet can be configured to only allow certain traffic into it or from certain locations with the key. RDP/SSH keys enable workers to securely access resources in a subnet by downloading a file that enables automatic connection. Subnetting also prevents attackers from gaining access to every resource in a network if they find a way in. With subnetting, they will need to not only hack the VPC or On-prem network, but each subnet within it. Lastly, the reading covered the zero-trust response. This means that companies treat almost every user/request as a non-validated user. And so there is no security assumptions that take place.  
