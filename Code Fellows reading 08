@@ -1,0 +1,31 @@
+Jonathan Barrow
+9/9/2020
+
+Reading: Today’s reading covered AD DS and how data is stored into AD as a directory. AD is more of a directory than a database since it is optimized for read operations instead of write operations. Additionally to understand AD DS in greater detail, one must also try to understand workgroups vs domains and their role in AD. A workgroup is a peer-to-peer network with no central authentication, this means that every computer acts as a client and a server. These are great for small office networks. For larger companies, a client-server setup is preferred using a domain. This is achieved using a centralized authority, such as a server, to keep varying degrees of permissions for users in the network. This server is called a domain controller that runs Active Directory.
+The second article in today’s reading covered Organizational Units or OUs. OUs will always be contained within a single domain. They are also created in ways that can mimic the companies functional or business structure. The main benefits in using OUs is that you can manage objects more efficiently. You can also deploy a group policy object setting. This allows you to set policies for multiple users and groups. Lastly, OUs let you delegate administrative control over the various resources that are in the OU.
+Lastly, we reviewed the use of Server manager to create user roles, access policies, access scope for DNS zone and records, and to view roles and role permissions.
+
+
+Notes: Identity management is for allowing users to access certain resources and granted privileges. 
+IAM, Identity and Access Management. 
+Look into CISSP domain certification.
+We always assume that the real digital identity is being used by the real person, this is a major assumption that can turn into a security issue. This is under Role based access control
+ADAC, attribution based access control.
+Each person has a set of permissions to each system, not every resource on the network. 
+If you need more granular control of user rights ADAC is better. 
+RBAC, are templates that are used, they are easier to audit. 
+
+ADAC Elements:
+Organization Unit: High Tier, whatever you make it to be. Could have multiple groups or just one per OU.
+Groups, A or B: This would be departments.
+Then each group gets its own User, user a, b, c etc
+OU, Group, and user.
+Used when hiring new employees, system provisioning. 
+
+Group Policy editor
+Everything you do here will only affect the local system. 
+
+ADAC, Active Directory Administrative Center
+Add a new user through gui. This is the same as the ops challenge through powershell.
+Go to netbios domain on the left.
+New, user, fill in account info like name etc. 
