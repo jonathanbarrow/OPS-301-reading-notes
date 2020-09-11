@@ -1,0 +1,12 @@
+
+Jonathan Barrow
+9/10/2020
+
+Reading: Today’s reading covered the topic of routing. Routing occurs at layer 3 of a network's topology. There are three main types of routing. 
+Static
+Here the IP address is set and are manually added to the routing table. It is generally more secure but harder to manage for companies. 
+Default routing
+Here the Topology is the same as in the static setup. However the router is configured to send all packets towards a single router. 
+Dynamic routing
+Here the router makes automatic adjustments to the routing table based on the network traffic passing through. Here the advantages are easier to configure and more efficient but more costly and less secure. 
+The reading also covered the Open Shortest Path First. OSPF allows for areas to be separated by different routers. The OSPF also has a backbone area that all other areas must be attached to. This is area 0. 
