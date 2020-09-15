@@ -1,0 +1,10 @@
+Jonathan Barrow
+9/15/2020
+
+Reading: Today's reading covered DevOps and its use in the business world. DevOps is the continuous integration of both development and operations. Historically, development and operations were separate and had alternating views about resource consumption. Operations wanting to keep resource consumption low while development wanting whatever was needed to get the job done. Today’s DevOps consist of four main points, Continuous integration, Continuous delivery, Continuous testing, and Continuous monitoring.
+Continuous integration: this is when multiple pieces of source code come together to create a finished product.
+Continuous delivery: software is constantly tested to allow better features. 
+Continuous testing: here the software is constantly validated against its requirements.
+Continuous monitoring: here automation software is needed to check for bugs.
+
+The second topic covered was Infrastructure as Code or IaC. IaC is the ability of developers to write code that automatically provisions resources in a cloud environment as well as update and eventually terminate them. The reason behind IaC is its cost and time saved in manually provisioning resources like VM’s, servers, databases, etc.     
