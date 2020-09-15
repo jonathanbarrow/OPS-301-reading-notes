@@ -1,0 +1,5 @@
+
+Jonathan Barrow
+9/11/2020
+
+Reading: Todays reading covered Azure and Azure AD. Azure is Microsofts Cloud Service Provider. CSP allow companies to use various computing, network, and storage functions without spending a lot of upfront infrastructure costs. Cloud computing is almost like a utility, it is there when you need it, and you only pay for what you use. Azure AD, is a server hosted version of AD instead there is not IP address associated with the server. Instead, Azure AD is used to manage accounts, rather than actual devices. You sign onto a domain in Azure AD with a email address that allows you to access the various domain that you have created within Azure. 
