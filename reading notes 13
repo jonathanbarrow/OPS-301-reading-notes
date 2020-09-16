@@ -1,0 +1,11 @@
+Reading: Today’s reading covered patch management and its use in the cyber security world. Patch management is the process of reviewing, documenting, and implementing patches throughout an organizations network. This is done to prevent certain devices from becoming outdated and easily accessible to different malware agents. A patch is like an update, it acts as a bandage around an old software installation that protects it from current threats. There are three different kinds of patches. 
+1.	Feature patches: these improve software functionality.
+2.	Bug fix patches
+3.	Security patches. 
+
+WSUS: Windows server update services is an installation option on a windows server that allows configuration for various windows updates and patches throughout the specified domain. 
+Notes: Most patches tend to be bug fixes or security. With the third tier being feature updates. 
+
+Patch management: patch management, grey team. Relates to Vulnerability management. Cyber security strategy. 
+
+Zero-day vulnerabilities. Vulnerabilities that are built in and can only be fixed if you add a patch. Attackers know about vulnerabilities before companies or companies are reluctant to announce flaws in their systems. 
