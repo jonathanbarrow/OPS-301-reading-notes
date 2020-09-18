@@ -1,0 +1,5 @@
+Jonathan Barrow
+9/17/2020
+
+Reading: Today's reading covered databases and SQL. SQL is the basic language that relational databases use to input, store, extract, and read data.Various relational databases such as MySQL, Oracle, MS SQL Server, use SQL. SQL is used throughout most relational databases with the exception of some product specific languages like Splunk. 
+Another point of the reading was Database Management System, this is used to control access to the database, manipulate data, and generate reports of the data. Several kinds of used databases include, relational, object orientated, and network databases. NoSQL databses are 'not only SQL' and are used specilazed applications and have usage limitations. 
